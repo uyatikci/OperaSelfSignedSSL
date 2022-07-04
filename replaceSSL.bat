@@ -1,4 +1,4 @@
-set pass=Opera12c
+set /p pass=
 set walletDir=D:\MICROS\wallets
 set securityDir=D:\MICROS\opera\security
 set cacertsFile=D:\ORA\JDK\jre\lib\security\cacerts
