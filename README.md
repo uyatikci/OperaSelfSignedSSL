@@ -1,4 +1,4 @@
 # OperaSelfSignedSSL
-Automatically generate Self-Signed SSL certificate for Oracle Hospitality Opera 5.5 and 5.6
+With this tool, a self-signed certificate is automatically generated for Opera versions 5.5 and 5.6
 
 # Generating steps
